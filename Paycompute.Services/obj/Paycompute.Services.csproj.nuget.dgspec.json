@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProjects\\Paycompute.Services\\Paycompute.Services.csproj": {}
+    "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {}
   },
   "projects": {
-    "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+    "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectUniqueName": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "projectName": "Paycompute.Entity",
-        "projectPath": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+        "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
         "packagesPath": "C:\\Users\\okogb\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\Paycompute.Entity\\obj\\",
+        "outputPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\MyProjects\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+    "D:\\MyProjects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "projectUniqueName": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
         "projectName": "Paycompute.Persistence",
-        "projectPath": "D:\\MyProjects\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
+        "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj",
         "packagesPath": "C:\\Users\\okogb\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\Paycompute.Persistence\\obj\\",
+        "outputPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\MyProjects\\Paycompute.Services\\Paycompute.Services.csproj": {
+    "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProjects\\Paycompute.Services\\Paycompute.Services.csproj",
+        "projectUniqueName": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
         "projectName": "Paycompute.Services",
-        "projectPath": "D:\\MyProjects\\Paycompute.Services\\Paycompute.Services.csproj",
+        "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj",
         "packagesPath": "C:\\Users\\okogb\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProjects\\Paycompute.Services\\obj\\",
+        "outputPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -168,11 +168,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-                "projectPath": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+              "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+                "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
               },
-              "D:\\MyProjects\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-                "projectPath": "D:\\MyProjects\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+              "D:\\MyProjects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+                "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
               }
             }
           }

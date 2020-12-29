@@ -6203,11 +6203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\Paycompute\\Paycompute.csproj",
+      "projectUniqueName": "D:\\MyProjects\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
       "projectName": "Paycompute",
-      "projectPath": "D:\\MyProjects\\Paycompute\\Paycompute.csproj",
+      "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
       "packagesPath": "C:\\Users\\okogb\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\Paycompute\\obj\\",
+      "outputPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6228,11 +6228,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "D:\\MyProjects\\Paycompute.Services\\Paycompute.Services.csproj": {
-              "projectPath": "D:\\MyProjects\\Paycompute.Services\\Paycompute.Services.csproj"
+            "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {
+              "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj"
             }
           }
         }

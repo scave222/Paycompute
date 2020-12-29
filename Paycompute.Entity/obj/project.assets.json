@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectUniqueName": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "projectName": "Paycompute.Entity",
-      "projectPath": "D:\\MyProjects\\Paycompute.Entity\\Paycompute.Entity.csproj",
+      "projectPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
       "packagesPath": "C:\\Users\\okogb\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\Paycompute.Entity\\obj\\",
+      "outputPath": "D:\\MyProjects\\PaycomputeApp\\Paycompute.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
