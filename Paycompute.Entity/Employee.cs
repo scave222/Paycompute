@@ -21,6 +21,7 @@ namespace Paycompute.Entity
         public string ImageUrl { get; set; }
         public DateTime DOB { get; set; }
         public DateTime DateJoined { get; set; }
+        public string Phone { get; set; }
         public string Designation { get; set; }
         public string Email { get; set; }
         [Required, MaxLength(50)]
@@ -28,8 +29,9 @@ namespace Paycompute.Entity
         public PaymentMethod PaymentMethod { get; set; }
         public StudentLoan StudentLoan { get; set; }
         public UnionMember UnionMember { get; set; }
-        [Required, MaxLength(50)]
+        [Required, MaxLength(150)]
         public string Address { get; set; }
+        [Required, MaxLength(50)]
         public string City { get; set; }
         [Required, MaxLength(50)]
         public string Postcode { get; set; }
