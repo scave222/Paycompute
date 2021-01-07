@@ -178,3 +178,5 @@ D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.dll
 D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\ref\Paycompute.dll
 D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.pdb
 D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.genruntimeconfig.cache
+D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
