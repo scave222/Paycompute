@@ -215,7 +215,7 @@ namespace Paycompute.Controllers
             return View(model);
         }
 
-        [HttpGet]
+        [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
         {

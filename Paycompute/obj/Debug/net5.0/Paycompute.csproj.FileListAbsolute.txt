@@ -180,3 +180,7 @@ D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.pdb
 D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Paycompute.genruntimeconfig.cache
 D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Detail.cshtml.g.cs
+D:\MyProjects\PaycomputeApp\Paycompute\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs

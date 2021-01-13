@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycompute.Services", "..\P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycompute.Persistence", "..\Paycompute.Persistence\Paycompute.Persistence.csproj", "{9F844C4D-8D44-400F-937C-48E6A1667F07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paycompute.Entity", "..\Paycompute.Entity\Paycompute.Entity.csproj", "{5F7CE362-36DF-4022-B7D7-BC507D4B20C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paycompute.Entity", "..\Paycompute.Entity\Paycompute.Entity.csproj", "{5F7CE362-36DF-4022-B7D7-BC507D4B20C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
