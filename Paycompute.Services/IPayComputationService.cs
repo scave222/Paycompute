@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Paycompute.Services
 {
@@ -22,9 +23,9 @@ namespace Paycompute.Services
         decimal NetPay(decimal totalEarnings, decimal totalDeduction);
     }
 
-    public class SelectListItem
-    {
-        public string Text { get; set; }
-        public string Value { get; set; }
-    }
+    //public class SelectListItem
+    //{
+    //    public string Text { get; set; }
+    //    public string Value { get; set; }
+    //}
 }

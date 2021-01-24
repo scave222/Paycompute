@@ -1,4 +1,5 @@
-﻿using Paycompute.Entity;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using Paycompute.Entity;
 using Paycompute.Persistence;
 using System;
 using System.Collections.Generic;
@@ -23,7 +24,7 @@ namespace Paycompute.Services.Implementation
             await _context.SaveChangesAsync();
         }
 
-        public Employee GetById(int employeeId) => 
+        public Employee GetById(int employeeId) =>
             _context.Employees.Where(e => e.Id == employeeId).FirstOrDefault();
         public async Task Delete(int employeeId)
         {
